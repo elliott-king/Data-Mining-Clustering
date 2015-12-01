@@ -1,4 +1,4 @@
-# Data-Mining-Clustering
+# Data Mining: Clustering
 
 The purpose of this project is to run either K-means or Hierarchical Clustering on a given dataset. In each dataset, each row corresponds to an object and each column corresponds to an attribute. The attribute values are comma-separated. You don’t need to do normalization for any of the datasets. The original Utilities dataset (Utilities_Unnormalized.xls) is un-normalized, but it is provided just for you to know the meaning of the clusters.
 
